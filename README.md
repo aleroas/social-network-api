@@ -46,3 +46,7 @@ Use Insomnia or Postman to test the API endpoints.
 ## License
 
 This project is licensed under the MIT License.
+
+## Screen Recording
+[Screen Recording 2024-07-27 at 5.00.48 PM.zip](https://github.com/user-attachments/files/16401466/Screen.Recording.2024-07-27.at.5.00.48.PM.zip)
+
